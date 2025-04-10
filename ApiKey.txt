@@ -1,4 +1,3 @@
-7fe161252244dfa3e7413a7b41fd4590
 
 
 https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
